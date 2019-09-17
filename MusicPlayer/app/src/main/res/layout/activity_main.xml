@@ -39,7 +39,7 @@
         android:layout_width="200dp"
         android:layout_height="200dp"
         android:layout_marginStart="104dp"
-        android:layout_marginTop="68dp"
+        android:layout_marginTop="104dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/current_song_image" />
@@ -49,9 +49,10 @@
         android:layout_width="50dp"
         android:layout_height="50dp"
         android:layout_marginStart="180dp"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="36dp"
         android:layout_marginEnd="180dp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/menu" />
